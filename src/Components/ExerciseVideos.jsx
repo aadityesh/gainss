@@ -4,8 +4,8 @@ const ExerciseVideos = ({ exerciseVideos, name }) => {
   if (!exerciseVideos.length > 0) return <div>Loading...</div>;
   return (
     <>
-      <div className="mt-[100px]">
-        <p className="text-2xl lg:text-4xl">
+      <div className="mt-[150px] p-4">
+        <p className="text-center text-2xl lg:text-4xl">
           Watch{" "}
           <span className="font-medium capitalize text-red-500">{name}</span>{" "}
           exercise videos{" "}
