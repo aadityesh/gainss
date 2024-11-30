@@ -14,6 +14,7 @@
 ## Tech Stack:
 <a href="https://cdnlogo.com/logo/react_39944.html"><img src="https://static.cdnlogo.com/logos/r/85/react.svg" width="100"></a>
 <a href="https://cdnlogo.com/logo/javascript_18196.html"><img src="https://static.cdnlogo.com/logos/j/44/javascript.svg" width="100"></a>
+<a href="https://cdnlogo.com/logo/vitejs_134039.html"><img src="https://static.cdnlogo.com/logos/v/23/vitejs.svg" width="100"></a>
 <a href="https://logowik.com/rapidapi-logo-vector-svg-pdf-ai-eps-cdr-free-download-19632.html"><img src="https://logowik.com/content/uploads/images/rapidapi9164.logowik.com.webp" width="150"></a>
 
 ## Getting Started:
